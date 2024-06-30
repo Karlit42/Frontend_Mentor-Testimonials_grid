@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply h-auto text-white flex items-center justify-center font-barlow;
+}
+
+@screen lg {
+    body {
+        @apply h-screen;
+    }
+}
+
+.body {
+    @apply block;
+  }
+
+@screen lg {
+    .body {
+        @apply grid grid-cols-4 grid-rows-2 m-8 mx-auto max-w-screen-xl px-6;
+    }
+}
+
+.card {
+    @apply rounded-lg shadow-xl m-3 p-4;
+}
+
+.card-header {
+    @apply flex items-center mx-4;
+}
+
+img {
+    @apply rounded-full w-9 h-9 object-cover border-2;
+}
+
+
