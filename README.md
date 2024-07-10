@@ -1,12 +1,11 @@
-# Frontend Mentor - Testimonials grid section solution
+# Frontend Mentor - Testimonials grid section 
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-### Screenshot
+## Demo
 
-### Links
+You can view the live demo of the project deployed on Vercel here:
 
-- Live Site URL: 
+[Testimonials Grid Section on Vercel](https://frontend-mentor-testimonials-grid-olive.vercel.app/)
 
 ### Built with
 
@@ -14,6 +13,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - TailwindCSS
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+
 
 
